@@ -1,0 +1,2 @@
+* criando tabelas banco de dados== py manage.py migrate
+*criando super usuario admin == py manage.py createsuperuser --username admin
